@@ -5,5 +5,5 @@ base = "/"
 
 [[redirects]]
 from = "/*"
-to = "/index.html"
+to = "/index.php"
 status = 200
